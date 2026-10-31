@@ -1,14 +1,14 @@
 public class matriks {
     public static void main(String[] args) {
         int[][] matriksA = {
-            {1, 2},
-            {4, 5},
-            {7, 8}
+            {2, 3},
+            {6, 8},
+            {6, 9}
         };
 
         int[][] matriksB = {
-            {9, 8},
-            {6, 5},
+            {4, 8},
+            {6, 7},
             {3, 2}
         };
 
