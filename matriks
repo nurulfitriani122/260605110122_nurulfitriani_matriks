@@ -14,7 +14,7 @@ public class matriks {
 
         int[][] hasilPenjumlahan = new int[3][2];
 
-        // Penjumlahan matriks
+
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 2; j++) {
                 hasilPenjumlahan[i][j] = matriksA[i][j] + matriksB[i][j];
